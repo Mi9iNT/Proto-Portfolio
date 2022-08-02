@@ -7,7 +7,7 @@ import CurriculumVitae from './pages/CurriculumVitae';
 import Galerie from './pages/Galerie';
 import Jams from './pages/Jams';
 
-import NotFound from './pages/NotFound';
+// import NotFound from './pages/NotFound';
 import Videos from './pages/Videos';
 import MentionsLegales from './pages/MentionsLegales';
 
@@ -30,7 +30,7 @@ function App() {
           <Route path="/Jams" element={<Jams />} />
           <Route path="/Videos" element={<Videos />} />
           <Route path="/Mentions-Legales" element={<MentionsLegales />} />
-          <Route path="*" element={<NotFound />} />
+          <Route path="*" element={<Home />} />
         </Routes>
       </AnimatePresence>
         
