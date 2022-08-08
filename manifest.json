@@ -1,0 +1,43 @@
+{
+  "short_name": "Proto",
+  "name": "Proto-Portfolio",
+  "icons": [
+    {
+      "src": "logo.ico",
+      "sizes": "210x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "../src/assets/img/LogoMobileBleu.svg",
+      "type": "image/svg+xml",
+      "sizes": "330x280"
+    },
+    {
+      "src": "../src/assets/img/portrait.png",
+      "type": "image/png",
+      "sizes": "460x550"
+    }
+  ],
+  "start_url": "/Proto-Portfolio",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "shortcuts": [
+    {
+      "name": "Portfolio de Miguel Clairy",
+      "short_name": "Proto-Portfolio",
+      "description": "Portfolio de Miguel Clairy Développer Front-End",
+      "url": "/Proto-Portfolio",
+      "icons": [{ "src": "../src/assets/img/LogoMobileBleu.svg", "sizes": "330x280" }]
+    }
+  ],
+  "description": "Portfolio de Miguel Clairy Développer Front-End à Paris",
+  "screenshots": [
+    {
+      "src": "../src/assets/img/ProtoScreen.png",
+      "type": "image/png",
+      "sizes": "1910x950"
+    }
+  ]
+}
+
