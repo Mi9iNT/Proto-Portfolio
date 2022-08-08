@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Proto-Portfolio/static/css/main.810c5508.css",
+    "main.css": "/Proto-Portfolio/static/css/main.de9639c3.css",
     "main.js": "/Proto-Portfolio/static/js/main.8fded0dc.js",
     "static/media/ResponsiveDesign.gif": "/Proto-Portfolio/static/media/ResponsiveDesign.e5419e77e7362e88874b.gif",
     "static/media/TerreBlender.png": "/Proto-Portfolio/static/media/TerreBlender.cf8e7a8e53538f071133.png",
@@ -79,11 +79,11 @@
     "static/media/note-sticky-solid-blanc.svg": "/Proto-Portfolio/static/media/note-sticky-solid-blanc.bca510df8ef7b193d02d10e7b33e4c68.svg",
     "static/media/Vuejs.svg": "/Proto-Portfolio/static/media/Vuejs.f1fd23be1db9361fbcd81511fe862b08.svg",
     "static/media/React.svg": "/Proto-Portfolio/static/media/React.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.810c5508.css.map": "/Proto-Portfolio/static/css/main.810c5508.css.map",
+    "main.de9639c3.css.map": "/Proto-Portfolio/static/css/main.de9639c3.css.map",
     "main.8fded0dc.js.map": "/Proto-Portfolio/static/js/main.8fded0dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.810c5508.css",
+    "static/css/main.de9639c3.css",
     "static/js/main.8fded0dc.js"
   ]
 }
