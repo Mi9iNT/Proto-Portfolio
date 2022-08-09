@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Proto-Portfolio/static/css/main.5e1914d5.css",
-    "main.js": "/Proto-Portfolio/static/js/main.72d8f745.js",
+    "main.css": "/Proto-Portfolio/static/css/main.70c5f3a2.css",
+    "main.js": "/Proto-Portfolio/static/js/main.87985f22.js",
     "static/media/ResponsiveDesign.gif": "/Proto-Portfolio/static/media/ResponsiveDesign.e5419e77e7362e88874b.gif",
     "static/media/TerreBlender.png": "/Proto-Portfolio/static/media/TerreBlender.cf8e7a8e53538f071133.png",
     "static/media/TerreLuneBlender.png": "/Proto-Portfolio/static/media/TerreLuneBlender.f3c72c25289437105813.png",
@@ -27,23 +27,23 @@
     "static/media/cv-Clairy_Miguel-Dev_Front_Qr.pdf": "/Proto-Portfolio/static/media/cv-Clairy_Miguel-Dev_Front_Qr.4cf569246f1464581d3a.pdf",
     "static/media/PSX.jpg": "/Proto-Portfolio/static/media/PSX.8e0b580e35d39eebbb07.jpg",
     "static/media/Conservatoire.jpg": "/Proto-Portfolio/static/media/Conservatoire.76881163bc5d49410076.jpg",
-    "static/media/Oswald-VariableFont_wght.ttf": "/Proto-Portfolio/static/media/Oswald-VariableFont_wght.1480e295ab356d039e8d.ttf",
     "static/media/ConservatoireLight.jpg": "/Proto-Portfolio/static/media/ConservatoireLight.2d02fd4d4d35dab56abf.jpg",
     "static/media/1mot1filmthumb.png": "/Proto-Portfolio/static/media/1mot1filmthumb.c577e8b5c625c7118d37.png",
     "static/media/scultureenbronze.png": "/Proto-Portfolio/static/media/scultureenbronze.d2c25c82071ffe801541.png",
     "static/media/NatoNtetu.png": "/Proto-Portfolio/static/media/NatoNtetu.413cbe3849796bf4ea65.png",
+    "static/media/KdamThmorPro-Regular.ttf": "/Proto-Portfolio/static/media/KdamThmorPro-Regular.e59b02a42579bc13a468.ttf",
     "static/media/snail.png": "/Proto-Portfolio/static/media/snail.778ca60253c1f393ae32.png",
     "static/media/blinguage-demothumb.png": "/Proto-Portfolio/static/media/blinguage-demothumb.8a575f1c4ff8fa4e1572.png",
     "static/media/Natou2mini.png": "/Proto-Portfolio/static/media/Natou2mini.c319823bc5097f1baf73.png",
-    "static/media/JosefinSans-Medium.ttf": "/Proto-Portfolio/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
     "static/media/NTF.png": "/Proto-Portfolio/static/media/NTF.13e8bc054a96e059ff72.png",
     "static/media/ladefense.jpg": "/Proto-Portfolio/static/media/ladefense.d843d872560f9cda21f5.jpg",
     "static/media/AvatarCropped.png": "/Proto-Portfolio/static/media/AvatarCropped.37295217a3d249a59bb8.png",
+    "static/media/whola.ttf": "/Proto-Portfolio/static/media/whola.c2622920eebcb3107665.ttf",
     "static/media/erathumb.png": "/Proto-Portfolio/static/media/erathumb.91d6c15cefee160172ac.png",
     "static/media/OBOH_Avatar.png": "/Proto-Portfolio/static/media/OBOH_Avatar.6068f4d93b6972d9f486.png",
+    "static/media/LogoMobileBleuv2.svg": "/Proto-Portfolio/static/media/LogoMobileBleuv2.eb38bee307d6eddd8c2187808cc08be9.svg",
     "static/media/bo2.png": "/Proto-Portfolio/static/media/bo2.455a18a63f9aadbf535e.png",
     "static/media/Avatar.svg": "/Proto-Portfolio/static/media/Avatar.ba8510a9740ae076bfdf4fb19f5645f3.svg",
-    "static/media/LogoMobileBleu.svg": "/Proto-Portfolio/static/media/LogoMobileBleu.c45cd53408507edb2cc6076c4a2c9339.svg",
     "static/media/PHP.svg": "/Proto-Portfolio/static/media/PHP.36e6e4cff2c817030d45e2355c4056c8.svg",
     "static/media/Sass.svg": "/Proto-Portfolio/static/media/Sass.540ec25faf04e640b555c5773d3a6d9f.svg",
     "static/media/Javascript.svg": "/Proto-Portfolio/static/media/Javascript.c32d067462242764b44cbd78ed2ad3e4.svg",
@@ -80,11 +80,11 @@
     "static/media/note-sticky-solid-blanc.svg": "/Proto-Portfolio/static/media/note-sticky-solid-blanc.bca510df8ef7b193d02d10e7b33e4c68.svg",
     "static/media/Vuejs.svg": "/Proto-Portfolio/static/media/Vuejs.f1fd23be1db9361fbcd81511fe862b08.svg",
     "static/media/React.svg": "/Proto-Portfolio/static/media/React.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.5e1914d5.css.map": "/Proto-Portfolio/static/css/main.5e1914d5.css.map",
-    "main.72d8f745.js.map": "/Proto-Portfolio/static/js/main.72d8f745.js.map"
+    "main.70c5f3a2.css.map": "/Proto-Portfolio/static/css/main.70c5f3a2.css.map",
+    "main.87985f22.js.map": "/Proto-Portfolio/static/js/main.87985f22.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e1914d5.css",
-    "static/js/main.72d8f745.js"
+    "static/css/main.70c5f3a2.css",
+    "static/js/main.87985f22.js"
   ]
 }
