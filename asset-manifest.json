@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Proto-Portfolio/static/css/main.a581127e.css",
-    "main.js": "/Proto-Portfolio/static/js/main.c79b5206.js",
+    "main.css": "/Proto-Portfolio/static/css/main.0f36dfa9.css",
+    "main.js": "/Proto-Portfolio/static/js/main.c82ddedf.js",
     "static/media/ResponsiveDesign.gif": "/Proto-Portfolio/static/media/ResponsiveDesign.e5419e77e7362e88874b.gif",
     "static/media/TerreBlender.png": "/Proto-Portfolio/static/media/TerreBlender.cf8e7a8e53538f071133.png",
     "static/media/TerreLuneBlender.png": "/Proto-Portfolio/static/media/TerreLuneBlender.f3c72c25289437105813.png",
@@ -80,11 +80,11 @@
     "static/media/note-sticky-solid-blanc.svg": "/Proto-Portfolio/static/media/note-sticky-solid-blanc.bca510df8ef7b193d02d10e7b33e4c68.svg",
     "static/media/Vuejs.svg": "/Proto-Portfolio/static/media/Vuejs.f1fd23be1db9361fbcd81511fe862b08.svg",
     "static/media/React.svg": "/Proto-Portfolio/static/media/React.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.a581127e.css.map": "/Proto-Portfolio/static/css/main.a581127e.css.map",
-    "main.c79b5206.js.map": "/Proto-Portfolio/static/js/main.c79b5206.js.map"
+    "main.0f36dfa9.css.map": "/Proto-Portfolio/static/css/main.0f36dfa9.css.map",
+    "main.c82ddedf.js.map": "/Proto-Portfolio/static/js/main.c82ddedf.js.map"
   },
   "entrypoints": [
-    "static/css/main.a581127e.css",
-    "static/js/main.c79b5206.js"
+    "static/css/main.0f36dfa9.css",
+    "static/js/main.c82ddedf.js"
   ]
 }
