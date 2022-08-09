@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Proto-Portfolio/static/css/main.5e1914d5.css",
-    "main.js": "/Proto-Portfolio/static/js/main.635849d3.js",
+    "main.js": "/Proto-Portfolio/static/js/main.72d8f745.js",
     "static/media/ResponsiveDesign.gif": "/Proto-Portfolio/static/media/ResponsiveDesign.e5419e77e7362e88874b.gif",
     "static/media/TerreBlender.png": "/Proto-Portfolio/static/media/TerreBlender.cf8e7a8e53538f071133.png",
     "static/media/TerreLuneBlender.png": "/Proto-Portfolio/static/media/TerreLuneBlender.f3c72c25289437105813.png",
@@ -24,8 +24,8 @@
     "static/media/MainFuckUkraina.png": "/Proto-Portfolio/static/media/MainFuckUkraina.ea783e00a9761eff1f46.png",
     "static/media/iang.jpg": "/Proto-Portfolio/static/media/iang.59038f9b01df343a27d4.jpg",
     "static/media/Laminutelogo.png": "/Proto-Portfolio/static/media/Laminutelogo.f89b3afb9b1d0a1a574e.png",
+    "static/media/cv-Clairy_Miguel-Dev_Front_Qr.pdf": "/Proto-Portfolio/static/media/cv-Clairy_Miguel-Dev_Front_Qr.4cf569246f1464581d3a.pdf",
     "static/media/PSX.jpg": "/Proto-Portfolio/static/media/PSX.8e0b580e35d39eebbb07.jpg",
-    "static/media/cv-Clairy_Miguel-Dev_Front_Qr.pdf": "/Proto-Portfolio/static/media/cv-Clairy_Miguel-Dev_Front_Qr.e9472a1c2c834d8438ab.pdf",
     "static/media/Conservatoire.jpg": "/Proto-Portfolio/static/media/Conservatoire.76881163bc5d49410076.jpg",
     "static/media/Oswald-VariableFont_wght.ttf": "/Proto-Portfolio/static/media/Oswald-VariableFont_wght.1480e295ab356d039e8d.ttf",
     "static/media/ConservatoireLight.jpg": "/Proto-Portfolio/static/media/ConservatoireLight.2d02fd4d4d35dab56abf.jpg",
@@ -81,10 +81,10 @@
     "static/media/Vuejs.svg": "/Proto-Portfolio/static/media/Vuejs.f1fd23be1db9361fbcd81511fe862b08.svg",
     "static/media/React.svg": "/Proto-Portfolio/static/media/React.928f956d9c8ebcffb98a8e917154a81a.svg",
     "main.5e1914d5.css.map": "/Proto-Portfolio/static/css/main.5e1914d5.css.map",
-    "main.635849d3.js.map": "/Proto-Portfolio/static/js/main.635849d3.js.map"
+    "main.72d8f745.js.map": "/Proto-Portfolio/static/js/main.72d8f745.js.map"
   },
   "entrypoints": [
     "static/css/main.5e1914d5.css",
-    "static/js/main.635849d3.js"
+    "static/js/main.72d8f745.js"
   ]
 }
